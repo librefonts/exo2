@@ -1,0 +1,17 @@
+commit: HEAD
+fontcrunch: false
+license_file: ''
+notes: ''
+process_files: [src/Exo2-Thin.ufo, src/Exo2-ExtraLightItalic.ufo, src/Exo2-Light.ufo,
+  src/Exo2-ExtraBold.ufo, src/Exo2-Bold.ufo, src/Exo2-Italic.ufo, src/Exo2-Regular.ufo,
+  src/Exo2-Medium.ufo, src/Exo2-LightItalic.ufo, src/Exo2-BoldItalic.ufo, src/Exo2-SemiBold.ufo,
+  src/Exo2-ExtraBoldItalic.ufo, src/Exo2-BlackItalic.ufo, src/Exo2-MediumItalic.ufo,
+  src/Exo2-Black.ufo, src/Exo2-ExtraLight.ufo, src/Exo2-SemiBoldItalic.ufo, src/Exo2-ThinItalic.ufo,
+  Exo2-LightItalic.ttf.ttx, Exo2-ExtraBoldItalic.ttf.ttx, Exo2-ExtraLightItalic.ttf.ttx,
+  Exo2-ExtraBold.ttf.ttx, Exo2-ExtraLight.ttf.ttx, Exo2-SemiBoldItalic.ttf.ttx, Exo2-SemiBold.ttf.ttx,
+  Exo2-Bold.ttf.ttx, Exo2-ThinItalic.ttf.ttx, Exo2-MediumItalic.ttf.ttx, Exo2-BlackItalic.ttf.ttx,
+  Exo2-Thin.ttf.ttx, Exo2-Medium.ttf.ttx, Exo2-Light.ttf.ttx, Exo2-BoldItalic.ttf.ttx,
+  Exo2-Regular.ttf.ttx, Exo2-Italic.ttf.ttx, Exo2-Black.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

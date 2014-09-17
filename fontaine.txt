@@ -1,0 +1,1127 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: Exo 2 Thin
+    Sub family: Regular
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Extra Light
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Light
+    Sub family: Regular
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Extra Bold
+    Sub family: Regular
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2
+    Sub family: Bold
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2
+    Sub family: Regular
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Medium
+    Sub family: Regular
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Light
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Semi Bold
+    Sub family: Regular
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Extra Bold
+    Sub family: Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Black
+    Sub family: Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Medium
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Black
+    Sub family: Regular
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Extra Light
+    Sub family: Regular
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Semi Bold
+    Sub family: Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Thin
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    Designer: Natanael Gama
+    Glyph count: 466
+    Character count: 466
+  Font:
+    Common name: Exo 2 Light
+    Sub family: Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Extra Bold
+    Sub family: Extra Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Extra Light
+    Sub family: Extra Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Extra Bold
+    Sub family: Extra Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Extra Light
+    Sub family: Extra Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Semi Bold
+    Sub family: Semi Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Semi Bold
+    Sub family: Semi Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Thin
+    Sub family: Thin Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Medium
+    Sub family: Medium Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Black
+    Sub family: Black Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Thin
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Medium
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Light
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2
+    Sub family: Regular Italic
+    Style: italic
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+  Font:
+    Common name: Exo 2 Black
+    Sub family: Black
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2013, Natanael Gama (www.ndiscovered.com . info(at)ndiscovered.com), with Reserved Font Name Exo. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    Designer: Natanael Gama
+    Designer url: www.ndiscovered.com
+    Glyph count: 457
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
